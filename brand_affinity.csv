@@ -1,0 +1,64 @@
+store_type,brand,persona 1,persona 2,persona 3,persona 4,persona 5,persona 6
+Home decoration,high_end_Brand_Home_decoration,1.00,1.00,1.00,1.00,1.00,1.00
+Home decoration,mid_Brand_Home_decoration,0.00,0.00,0.00,0.00,0.00,0.00
+Home decoration,low_end_Brand_Home_decoration,0.00,0.00,0.00,0.00,0.00,0.00
+Family casual,high_end_Brand_Family_casual,0.00,0.00,0.00,1.00,1.00,0.00
+Family casual,mid_Brand_Family_casual,1.00,1.00,0.00,0.00,0.00,1.00
+Family casual,low_end_Brand_Family_casual,0.00,0.00,0.00,0.00,0.00,0.00
+Specialty food,high_end_Brand_Specialty_food,1.00,1.00,1.00,1.00,1.00,1.00
+Specialty food,mid_Brand_Specialty_food,0.00,0.00,0.00,0.00,0.00,0.00
+Specialty food,low_end_Brand_Specialty_food,0.00,0.00,0.00,0.00,0.00,0.00
+Musical instruments,high_end_Brand_Musical_instruments,1.00,1.00,1.00,1.00,1.00,1.00
+Musical instruments,mid_Brand_Musical_instruments,0.00,0.00,0.00,0.00,0.00,0.00
+Musical instruments,low_end_Brand_Musical_instruments,0.00,0.00,0.00,0.00,0.00,0.00
+Books and news,high_end_Brand_Books_and_news,1.00,1.00,1.00,1.00,1.00,1.00
+Books and news,mid_Brand_Books_and_news,0.00,0.00,0.00,0.00,0.00,0.00
+Books and news,low_end_Brand_Books_and_news,0.00,0.00,0.00,0.00,0.00,0.00
+Beauty and personal care,high_end_Brand_Beauty_and_personal_care,1.00,1.00,1.00,1.00,1.00,1.00
+Beauty and personal care,mid_Brand_Beauty_and_personal_care,0.00,0.00,0.00,0.00,0.00,0.00
+Beauty and personal care,low_end_Brand_Beauty_and_personal_care,0.00,0.00,0.00,0.00,0.00,0.00
+"Clothing, shoes and accessory","high_end_Brand_Clothing,_shoes_and_accessory",1.00,1.00,1.00,1.00,1.00,1.00
+"Clothing, shoes and accessory","mid_Brand_Clothing,_shoes_and_accessory",0.00,0.00,0.00,0.00,0.00,0.00
+"Clothing, shoes and accessory","low_end_Brand_Clothing,_shoes_and_accessory",0.00,0.00,0.00,0.00,0.00,0.00
+Drugstore and pharmacy,high_end_Brand_Drugstore_and_pharmacy,1.00,1.00,1.00,1.00,1.00,1.00
+Drugstore and pharmacy,mid_Brand_Drugstore_and_pharmacy,0.00,0.00,0.00,0.00,0.00,0.00
+Drugstore and pharmacy,low_end_Brand_Drugstore_and_pharmacy,0.00,0.00,0.00,0.00,0.00,0.00
+Supermarket,high_end_Brand_Supermarket,1.00,1.00,1.00,1.00,1.00,1.00
+Supermarket,mid_Brand_Supermarket,0.00,0.00,0.00,0.00,0.00,0.00
+Supermarket,low_end_Brand_Supermarket,0.00,0.00,0.00,0.00,0.00,0.00
+Clothing and shoes services,high_end_Brand_Clothing_and_shoes_services,0.00,0.00,0.00,1.00,1.00,0.00
+Clothing and shoes services,mid_Brand_Clothing_and_shoes_services,1.00,1.00,1.00,0.00,0.00,1.00
+Clothing and shoes services,low_end_Brand_Clothing_and_shoes_services,0.00,0.00,0.00,0.00,0.00,0.00
+Consumer electronics & services,high_end_Brand_Consumer_electronics_&_services,1.00,1.00,1.00,1.00,1.00,1.00
+Consumer electronics & services,mid_Brand_Consumer_electronics_&_services,0.00,0.00,0.00,0.00,0.00,0.00
+Consumer electronics & services,low_end_Brand_Consumer_electronics_&_services,0.00,0.00,0.00,0.00,0.00,0.00
+Specialty beverage,high_end_Brand_Specialty_beverage,1.00,1.00,1.00,1.00,1.00,1.00
+Specialty beverage,mid_Brand_Specialty_beverage,0.00,0.00,0.00,0.00,0.00,0.00
+Specialty beverage,low_end_Brand_Specialty_beverage,0.00,0.00,0.00,0.00,0.00,0.00
+Convenience,high_end_Brand_Convenience,1.00,1.00,1.00,1.00,1.00,1.00
+Convenience,mid_Brand_Convenience,0.00,0.00,0.00,0.00,0.00,0.00
+Convenience,low_end_Brand_Convenience,0.00,0.00,0.00,0.00,0.00,0.00
+Household appliances,high_end_Brand_Household_appliances,1.00,1.00,1.00,1.00,1.00,1.00
+Household appliances,mid_Brand_Household_appliances,0.00,0.00,0.00,0.00,0.00,0.00
+Household appliances,low_end_Brand_Household_appliances,0.00,0.00,0.00,0.00,0.00,0.00
+Fast casual,high_end_Brand_Fast_casual,1.00,1.00,1.00,1.00,1.00,1.00
+Fast casual,mid_Brand_Fast_casual,0.00,0.00,0.00,0.00,0.00,0.00
+Fast casual,low_end_Brand_Fast_casual,0.00,0.00,0.00,0.00,0.00,0.00
+Fine / Premium,high_end_Brand_Fine_/_Premium,1.00,1.00,1.00,1.00,1.00,1.00
+Fine / Premium,mid_Brand_Fine_/_Premium,0.00,0.00,0.00,0.00,0.00,0.00
+Fine / Premium,low_end_Brand_Fine_/_Premium,0.00,0.00,0.00,0.00,0.00,0.00
+Sports apparel,high_end_Brand_Sports_apparel,1.00,1.00,1.00,1.00,1.00,1.00
+Sports apparel,mid_Brand_Sports_apparel,0.00,0.00,0.00,0.00,0.00,0.00
+Sports apparel,low_end_Brand_Sports_apparel,0.00,0.00,0.00,0.00,0.00,0.00
+Eyewear,high_end_Brand_Eyewear,1.00,1.00,1.00,1.00,1.00,1.00
+Eyewear,mid_Brand_Eyewear,0.00,0.00,0.00,0.00,0.00,0.00
+Eyewear,low_end_Brand_Eyewear,0.00,0.00,0.00,0.00,0.00,0.00
+Jewellery & Watches,high_end_Brand_Jewellery_&_Watches,0.00,0.00,0.00,1.00,1.00,0.00
+Jewellery & Watches,mid_Brand_Jewellery_&_Watches,1.00,1.00,1.00,0.00,0.00,1.00
+Jewellery & Watches,low_end_Brand_Jewellery_&_Watches,0.00,0.00,0.00,0.00,0.00,0.00
+Not defined yet,high_end_Brand_Not_defined_yet,1.00,1.00,1.00,1.00,1.00,1.00
+Not defined yet,mid_Brand_Not_defined_yet,0.00,0.00,0.00,0.00,0.00,0.00
+Not defined yet,low_end_Brand_Not_defined_yet,0.00,0.00,0.00,0.00,0.00,0.00
+Beauty and personal care (H&L),high_end_Brand_Beauty_and_personal_care,1.00,1.00,1.00,1.00,1.00,1.00
+Beauty and personal care (H&L),mid_Brand_Beauty_and_personal_care,0.00,0.00,0.00,0.00,0.00,0.00
+Beauty and personal care (H&L),low_end_Brand_Beauty_and_personal_care,0.00,0.00,0.00,0.00,0.00,0.00

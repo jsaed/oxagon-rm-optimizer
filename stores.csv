@@ -1,0 +1,27 @@
+Phase,ASSET CODE,TYPOLOGY,Unit ID,Category Assumption,Store type,F&B GFA (incl BOH),RETAIL GFA (incl BOH),Supermarket (incl BOH),Sales density,Total Revenue
+1,NIC-F00-007-002-001,U2-03,001-004,Apparel & sports,"Clothing, shoes and accessory",#N/A,131.00,#N/A,12000,1572000
+1,NIC-F00-007-002-001,U2-03,002B-0E7,Health & wellbeing,Drugstore and pharmacy,#N/A,202.00,#N/A,25000,5050000
+1,NIC-F00-007-001-001,U3-4,001-006,Food & beverage,Family casual,197.00,#N/A,#N/A,25000,4925000
+1,NIC-F00-007-001-001,U3-4,001-007,Apparel & sports,"Clothing, shoes and accessory",#N/A,282.00,#N/A,12000,3384000
+1,NIC-F00-007-001-001,U3-4,001-009,Other,Not defined yet ,#N/A,144.00,#N/A,0,0
+1,NIC-F00-007-001-001,U3-4,001-004,Food & beverage,Family casual,220.00,#N/A,#N/A,25000,5500000
+1,NIC-F00-007-001-001,U3-4,001-003,Food & beverage,Family casual,214.00,#N/A,#N/A,25000,5350000
+1,NIC-F00-007-001-001,U3-4,001-001,Groceries,Specialty food,#N/A,168.00,#N/A,29000,4872000
+1,NIC-F00-007-007-001,U2-09,001-003,Supermarket,Supermarket,#N/A,#N/A,2084.00,28000,58352000
+1,NIC-F00-007-007-001,U2-09,001-002,Apparel & sports,Clothing and shoes services,#N/A,157.00,#N/A,21500,3375500
+1,NIC-F00-007-007-001,U2-09,001-001,Other,Not defined yet ,#N/A,239.00,#N/A,0,0
+1,NIC-F00-005-001-001,U2-4,002B-0E7,Apparel & sports,Sports apparel,#N/A,202.00,#N/A,16750,3383500
+1,NIC-F00-005-001-001,U2-4,001-004,Apparel & sports,Eyewear,#N/A,131.00,#N/A,34000,4454000
+1,NIC-F00-005-004-001,U2-7,001-0E16,Food & beverage,Family casual,424.00,#N/A,#N/A,25000,10600000
+1,NIC-F00-005-004-001,U2-7,001-014,Apparel & sports,"Clothing, shoes and accessory",#N/A,154.00,#N/A,12000,1848000
+1,NIC-F00-005-004-001,U2-7,001-0E13,Food & beverage,Family casual,371.00,#N/A,#N/A,25000,9275000
+1,NIC-F00-005-005-001,U3-6,001B-0M56,Apparel & sports,"Clothing, shoes and accessory",#N/A,131.00,#N/A,12000,1572000
+1,NIC-F00-005-005-001,U3-6,001-002,Apparel & sports,"Clothing, shoes and accessory",#N/A,570.00,#N/A,12000,6840000
+1,NIC-F00-005-005-001,U3-6,001B-004,Apparel & sports,"Clothing, shoes and accessory",#N/A,124.00,#N/A,12000,1488000
+1,NIC-F00-013-001-001,U2-4,002B-0E7,Apparel & sports,"Clothing, shoes and accessory",#N/A,202.00,#N/A,12000,2424000
+1,NIC-F00-013-001-001,U2-4,001-004,Home & living,Home decoration,#N/A,131.00,#N/A,0,0
+1,NIC-F00-013-005-001,U3-7,001-001,Apparel & sports,Jewellery & Watches,#N/A,251.00,#N/A,39000,9789000
+1,NIC-F00-013-005-001,U3-7,002-002,Electronics & media,Consumer electronics & services,#N/A,417.00,#N/A,24000,10008000
+1,NIC-F00-013-005-001,U3-7,001-004,Health & wellbeing,Drugstore and pharmacy,#N/A,170.00,#N/A,25000,4250000
+1,NIC-F00-013-005-001,U3-7,002-005,Other,Not defined yet ,#N/A,149.00,#N/A,0,0
+1,NIC-F00-013-005-001,U3-7,001-007,Groceries,Convenience,#N/A,150.00,#N/A,30000,4500000
